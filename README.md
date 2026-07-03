@@ -22,6 +22,19 @@ I enjoy designing, deploying, and managing cloud-native applications using AWS a
 
 ---
 
+## 🚀 Certifications 
+
+I am currently pursuing **AWS certifications** to strengthen my expertise in **Cloud Computing** and **DevOps**. My goal is to build a strong foundation in cloud technologies while gaining hands-on experience through real-world projects and continuous learning.
+
+I am committed to earning industry-recognized certifications, including:
+
+- ☁️ AWS Certified Cloud Practitioner *(In Progress)*
+- 🏗️ AWS Certified Solutions Architect – Associate *(Planned)*
+- ⚙️ AWS Certified SysOps Administrator – Associate *(Planned)*
+- 🚀 AWS Certified DevOps Engineer – Professional *(Future Goal)*
+
+Beyond AWS, I also plan to pursue certifications in **Kubernetes, Docker, Terraform, Linux, and CI/CD** to continuously enhance my technical expertise and grow as a **DevOps & Cloud Engineer**.
+
 ## 🚀 Current Goals
 
 - ☁️ Earn AWS Certifications
@@ -33,7 +46,7 @@ I enjoy designing, deploying, and managing cloud-native applications using AWS a
 
 ---
 
-## ────୨ৎ──── Dream DevOps Tech Stack ────୨ৎ────
+## 🚀 Dream DevOps Tech Stack 
 
 ### ☁️ ⋆°· Cloud & Infrastructure
 
@@ -121,8 +134,8 @@ I enjoy designing, deploying, and managing cloud-native applications using AWS a
 
 ## 🌐 Connect with Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- 💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+- 💼 LinkedIn: www.linkedin.com/in/usman-ali-aa7635305
+- 💻 GitHub: https://github.com/usman-30
 - 📧 Email: usmanali.tariqj2@gmail.com
 
 ---
