@@ -1,15 +1,167 @@
 <h1 align="center">Hi 👋, I'm Usman Ali</h1>
-<h3 align="center">๋࣭ ⭑✮💻₊ ⊹ Junior DevOps & Cloud Engineer ⭑✮💻₊ ⊹⚙️</h3>
+<h3 align="center">☁️🚀 Junior DevOps & Cloud Engineer | AWS | Linux | Docker | Kubernetes</h3>
 
-- 💬 Ask me about **I’m a Junior DevOps & Cloud Engineer in transition, with hands-on experience building reliable, automated, and scalable cloud infrastructure through academic specialization in Cloud Engineering and personal projects. With a strong foundation in AWS and modern DevOps practices, I focus on designing systems that are resilient by default, automated end-to-end, and built to scale without unnecessary complexity.**
-
-- 📫 How to reach me **usmanali.tariqj2@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+Passionate about building scalable cloud infrastructure, automating deployments, and implementing DevOps best practices.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+---
 
-  
+## 👨‍💻 About Me
+
+I'm **Usman Ali**, a **Fresh Graduate** and **Junior DevOps & Cloud Engineer** with a strong interest in Cloud Computing, DevOps, and Infrastructure Automation.
+
+I enjoy designing, deploying, and managing cloud-native applications using AWS and modern DevOps tools. I continuously improve my skills by building real-world projects and learning industry best practices.
+
+- 🌱 Currently learning **Advanced AWS, Kubernetes, Terraform & CI/CD**
+- 🚀 Building production-ready cloud infrastructure on AWS
+- 💬 Ask me about **AWS, Linux, Docker, Kubernetes, Git, GitHub, Nginx, CI/CD**
+- 📫 Reach me at **usmanali.tariqj2@gmail.com**
+- 🌍 Portfolio: **Coming Soon**
+- ⚡ Fun Fact: *I enjoy solving infrastructure and deployment challenges.*
+
+---
+
+## 🚀 Current Goals
+
+- ☁️ Earn AWS Certifications
+- 🐳 Master Docker & Kubernetes
+- ⚙️ Build complete CI/CD Pipelines
+- 🏗️ Learn Terraform & Infrastructure as Code
+- 📚 Contribute to Open Source Projects
+- ✍️ Share DevOps knowledge on LinkedIn
+
+---
+
+# 🚀 Featured Projects
+
+## 📚 AWS Three-Tier Book Review Application
+
+Production-ready deployment of a Three-Tier Application on AWS.
+
+### Technologies Used
+
+- AWS EC2
+- VPC
+- Public & Private Subnets
+- Internet Gateway
+- NAT Gateway
+- Application Load Balancer
+- Auto Scaling
+- RDS MySQL
+- Nginx
+- Node.js
+- Next.js
+- Git
+- GitHub
+- Linux
+
+### Features
+
+✅ High Availability
+
+✅ Auto Scaling
+
+✅ Secure Networking
+
+✅ Private Database
+
+✅ Load Balancing
+
+✅ Nginx Reverse Proxy
+
+✅ Production Ready Architecture
+
+---
+
+## 🛠 Tech Stack
+
+### ☁️ Cloud
+
+- AWS
+
+### 🐳 Containers
+
+- Docker
+- Kubernetes
+
+### ⚙️ DevOps
+
+- Jenkins
+- GitHub Actions (Learning)
+
+### 💻 Operating Systems
+
+- Linux (Ubuntu)
+- Bash
+
+### 🌐 Web
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Next.js
+- Node.js
+
+### 🗄 Database
+
+- MySQL
+
+### 🔧 Version Control
+
+- Git
+- GitHub
+
+---
+
+## 📜 Certifications
+
+- AWS Cloud Practitioner *(In Progress)*
+- AWS Solutions Architect Associate *(Learning)*
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📊 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- 💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+- 📧 Email: usmanali.tariqj2@gmail.com
+
+---
+
+## 🛠 Languages & Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,bash,git,github,jenkins,nginx,react,nextjs,nodejs,html,css,js,mysql,python,vscode" />
+
+</p>
+
+---
+
+<h3 align="center">
+✨ Thanks for visiting my profile! ✨
+</h3>
